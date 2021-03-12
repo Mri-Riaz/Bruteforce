@@ -9,4 +9,4 @@
 # ls
 # cd Bruteforce
 # ls
-# python2 facebook.py
+# python2 Bruteforce.py
